@@ -1,5 +1,5 @@
 body {
-  background-image: url("/Images/signup-bg.jpg");
+  background-image: url("Images/signup-bg.jpg");
   background-size: cover;
   font-family: 'Montserrat', Arial, sans-serif;
   margin: 0;
@@ -80,3 +80,4 @@ input:focus {
 .form-submit:hover {
   opacity: 0.8;
 }
+
